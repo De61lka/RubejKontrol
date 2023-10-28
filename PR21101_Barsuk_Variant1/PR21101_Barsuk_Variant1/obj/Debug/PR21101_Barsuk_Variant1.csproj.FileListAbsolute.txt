@@ -1,0 +1,15 @@
+C:\Users\Kyrich\Documents\Apps\PR21101_Barsuk_Variant1\PR21101_Barsuk_Variant1\bin\Debug\PR21101_Barsuk_Variant1.exe.config
+C:\Users\Kyrich\Documents\Apps\PR21101_Barsuk_Variant1\PR21101_Barsuk_Variant1\bin\Debug\PR21101_Barsuk_Variant1.exe
+C:\Users\Kyrich\Documents\Apps\PR21101_Barsuk_Variant1\PR21101_Barsuk_Variant1\bin\Debug\PR21101_Barsuk_Variant1.pdb
+C:\Users\Kyrich\Documents\Apps\PR21101_Barsuk_Variant1\PR21101_Barsuk_Variant1\obj\Debug\PR21101_Barsuk_Variant1.csproj.AssemblyReference.cache
+C:\Users\Kyrich\Documents\Apps\PR21101_Barsuk_Variant1\PR21101_Barsuk_Variant1\obj\Debug\MainWindow.g.cs
+C:\Users\Kyrich\Documents\Apps\PR21101_Barsuk_Variant1\PR21101_Barsuk_Variant1\obj\Debug\App.g.cs
+C:\Users\Kyrich\Documents\Apps\PR21101_Barsuk_Variant1\PR21101_Barsuk_Variant1\obj\Debug\PR21101_Barsuk_Variant1_MarkupCompile.cache
+C:\Users\Kyrich\Documents\Apps\PR21101_Barsuk_Variant1\PR21101_Barsuk_Variant1\obj\Debug\PR21101_Barsuk_Variant1_MarkupCompile.lref
+C:\Users\Kyrich\Documents\Apps\PR21101_Barsuk_Variant1\PR21101_Barsuk_Variant1\obj\Debug\MainWindow.baml
+C:\Users\Kyrich\Documents\Apps\PR21101_Barsuk_Variant1\PR21101_Barsuk_Variant1\obj\Debug\PR21101_Barsuk_Variant1.g.resources
+C:\Users\Kyrich\Documents\Apps\PR21101_Barsuk_Variant1\PR21101_Barsuk_Variant1\obj\Debug\PR21101_Barsuk_Variant1.Properties.Resources.resources
+C:\Users\Kyrich\Documents\Apps\PR21101_Barsuk_Variant1\PR21101_Barsuk_Variant1\obj\Debug\PR21101_Barsuk_Variant1.csproj.GenerateResource.cache
+C:\Users\Kyrich\Documents\Apps\PR21101_Barsuk_Variant1\PR21101_Barsuk_Variant1\obj\Debug\PR21101_Barsuk_Variant1.csproj.CoreCompileInputs.cache
+C:\Users\Kyrich\Documents\Apps\PR21101_Barsuk_Variant1\PR21101_Barsuk_Variant1\obj\Debug\PR21101_Barsuk_Variant1.exe
+C:\Users\Kyrich\Documents\Apps\PR21101_Barsuk_Variant1\PR21101_Barsuk_Variant1\obj\Debug\PR21101_Barsuk_Variant1.pdb
